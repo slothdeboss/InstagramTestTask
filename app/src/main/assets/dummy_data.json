@@ -1,0 +1,16 @@
+[
+  {
+    "username": "elonmusk",
+    "location": "Tesla",
+    "imageUrl": "https://i.insider.com/5ec7e9e03f73704f0e12cb24?width=1100&format=jpeg&auto=webp",
+    "likes": ["spacex", "tesla", "kimbalmusk", "mayemusk", "somerandomfun", "mars", "bmw"],
+    "description": "Browsing some memes during work time!"
+  },
+  {
+    "username": "stevejobs",
+    "location": "Apple",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Steve_Jobs_Headshot_2010-CROP.jpg",
+    "likes": ["elonmusk", "apple", "applefun"],
+    "description": "Back in my days we bring some revolution!"
+  }
+]
